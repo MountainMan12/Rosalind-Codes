@@ -1,4 +1,4 @@
-### Bioinformatics basic Rosalind Programs in Python
+### Rosalind Programs in Python
 
 #### Bioinformatics Stronghold
 Solved Problems
