@@ -14,4 +14,9 @@ Solved Problems
 Solved Problems
 
 1. [Introduction to Bioinformatics Armory](http://rosalind.info/problems/ini/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/nuccount.py)
-2. [Introduction to Protein Databases](http://rosalind.info/problems/dbpr/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/proteinDB.py)
+2. [Genbank Introduction](http://rosalind.info/problems/gbk/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/genbank.py)
+3. [Introduction to Protein Databases](http://rosalind.info/problems/dbpr/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/proteinDB.py)
+4. [Data Formats](http://rosalind.info/problems/frmt/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/dataform.py)
+5. [FASTQ Format Introduction](http://rosalind.info/problems/tfsq/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/fq2fa.py)
+6. [Read Quality Distribution](http://rosalind.info/problems/phre/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/fqual.py)
+7. [Protein Translation](http://rosalind.info/problems/ptra/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/protr.py)
