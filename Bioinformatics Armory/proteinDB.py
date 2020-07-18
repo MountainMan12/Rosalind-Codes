@@ -8,6 +8,7 @@ fh = open('data/rosalind_uniprot.txt','r')
 
 if(fh.mode == 'r'):
     ID = str(fh.read())
+fh.close()
 
 r = requests.get('https://www.uniprot.org/uniprot/'+ID+'.txt')
 data = r.text
@@ -15,6 +16,7 @@ soup = BeautifulSoup(data)
 
 with open('Uniprot_'+ID+'.txt', 'w') as file:
     file.write(str(soup))
+file.close()
 
 lines = []
 #Read the downloaded text from Uniprot website
