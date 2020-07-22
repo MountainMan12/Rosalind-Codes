@@ -20,3 +20,5 @@ Solved Problems
 5. [FASTQ Format Introduction](http://rosalind.info/problems/tfsq/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/fq2fa.py)
 6. [Read Quality Distribution](http://rosalind.info/problems/phre/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/fqual.py)
 7. [Protein Translation](http://rosalind.info/problems/ptra/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/protr.py)
+8. [Complementing a DNA strand](http://rosalind.info/problems/rvco/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/revcomp.py)
+9. [Finding Genes with ORFs](http://rosalind.info/problems/orfr/) --> [Code](https://github.com/MountainMan12/Rosalind-Codes/blob/master/Bioinformatics%20Armory/orfind.py)
